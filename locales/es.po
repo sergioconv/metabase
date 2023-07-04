@@ -9888,7 +9888,7 @@ msgstr "Hubo un problema al mostrar esta gráfico."
 
 #: frontend/src/metabase/visualizations/lib/errors.js:57
 msgid "Sorry, you don't have permission to see this card."
-msgstr "Lo siento, no tienes permiso para ver etsa tarjeta."
+msgstr "Lo siento, no tienes permiso para ver esta tarjeta."
 
 #: frontend/src/metabase/admin/databases/components/DeleteDatabaseModal.jsx:55
 msgid "Just a heads up:"
